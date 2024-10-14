@@ -1,0 +1,8 @@
+names:
+- old-aged-person
+- cane
+- wheelchair
+nc: 3
+test: dataset/test/image
+train: dataset/train/image
+val: dataset/valid/image

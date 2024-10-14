@@ -1,0 +1,10 @@
+names:
+- old-aged-person
+- cane
+- wheelchair
+nc: 3
+test: /Users/hamooshaq/projek/sistem_disabilitas1/dataset/test/image
+train:
+- /Users/hamooshaq/projek/sistem_disabilitas1/dataset/train/image
+- /Users/hamooshaq/projek/sistem_disabilitas1/dataset/valid/augmented_image
+val: /Users/hamooshaq/projek/sistem_disabilitas1/dataset/valid/image
